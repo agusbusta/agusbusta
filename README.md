@@ -1,5 +1,5 @@
 # 💫 About Me:
-⚡ I'm currently working at Chewed Pixel Studios as a Jr. Software Engineer.<br>🌱  I'm learning new tech skills like Unity, Python and Flutter. <br>💬  My favorite ice cream flavor is "Pistacho" .<br>
+⚡ I'm currently working at Novatide Limited as a Software Engineer.<br>🌱  I'm learning new tech skills like Unity, Python and Flutter. <br>💬  My favorite ice cream flavor is "Pistacho" .<br>
 
 
 ## 🌐 Socials:
